@@ -1,0 +1,3 @@
+The Fast Control Interface stack includes a kernel module (FCI Driver) and 
+a user space library (LIBFCI). The FCI manages the data exchange between 
+user space and kernel space of Linux using netlink socket transport services.
